@@ -1,0 +1,229 @@
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_Varsity.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\header.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_ANSI_Regular.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_ANSI_Shadow.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_Banner3.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_Colossal.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_Georgia11.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_Roman.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Headers\Header_Univers.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Results\Results.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake2\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author name.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author name2.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author surname.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author surname2.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Results\Results.txt
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Users\gabri\Desktop\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekty\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Projekt - konsola\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake - Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\Music\Snake_song.wav
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\snake.ico
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\Program.cs
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\Snake.exe.config
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\Snake.exe
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\bin\Debug\Snake.pdb
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\obj\Debug\Snake.exe
+C:\Users\gabri\Desktop\KCK\Snake - console game\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\Komunikacja człowiek - komputer\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\KCK\Snake (console game) - Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\snake.ico
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\Program.cs
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\bin\Debug\Snake.pdb
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\obj\Debug\Snake.exe
+C:\Studia\Moje\Semestr V\KCK\Snake - console game. Gabriel Czajkowski\Snake\obj\Debug\Snake.pdb
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Author\Author name.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Author\Author name2.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Author\Author surname.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Author\Author surname2.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Author\Author.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Coundown to game start\1.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Coundown to game start\2.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Coundown to game start\3.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Coundown to game start\Start.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Game over\Game Over.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Game over\Game.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Game over\Over.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\ASCII Arts\Logo_Varsity.txt
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\Music\Benny_Hill_Yakety_Sax.wav
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\Music\Snake_song.wav
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\snake.ico
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\Program.cs
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\Snake.exe.config
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\Snake.exe
+C:\Studia\Projects\Snake_Game_Console\Snake\bin\Debug\Snake.pdb
+C:\Studia\Projects\Snake_Game_Console\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Studia\Projects\Snake_Game_Console\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Studia\Projects\Snake_Game_Console\Snake\obj\Debug\Snake.exe
+C:\Studia\Projects\Snake_Game_Console\Snake\obj\Debug\Snake.pdb
